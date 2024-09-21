@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArithmaticsUtils/ArithmaticsUtils.iml" filepath="$PROJECT_DIR$/ArithmaticsUtils/ArithmaticsUtils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MethodReference/MethodReference.iml" filepath="$PROJECT_DIR$/MethodReference/MethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ArithmaticsUtils/ArithmaticsUtils.iml" filepath="$PROJECT_DIR$/src/ArithmaticsUtils/ArithmaticsUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ArrayRevisit/ArrayRevisit.iml" filepath="$PROJECT_DIR$/src/ArrayRevisit/ArrayRevisit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ArrayRevisit/src/MethodReference/MethodReference.iml" filepath="$PROJECT_DIR$/src/ArrayRevisit/src/MethodReference/MethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PyThreading/PyThreading.iml" filepath="$PROJECT_DIR$/PyThreading/PyThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Threading/Threading.iml" filepath="$PROJECT_DIR$/src/Threading/Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Utils/Utils.iml" filepath="$PROJECT_DIR$/src/Utils/Utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java coding problems/java coding problems.iml" filepath="$PROJECT_DIR$/java coding problems/java coding problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-interview-preparation.iml" filepath="$PROJECT_DIR$/.idea/java-interview-preparation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/streamApi/streamApi.iml" filepath="$PROJECT_DIR$/streamApi/streamApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/reVisitOops/reVisitOops.iml" filepath="$PROJECT_DIR$/src/reVisitOops/reVisitOops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ArrayRevisit/src/serialiseAndDeserialiseInJava/serialiseAndDeserialiseInJava.iml" filepath="$PROJECT_DIR$/src/ArrayRevisit/src/serialiseAndDeserialiseInJava/serialiseAndDeserialiseInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/streamApi/streamApi.iml" filepath="$PROJECT_DIR$/src/streamApi/streamApi.iml" />
     </modules>
   </component>
 </project>
