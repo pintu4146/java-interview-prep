@@ -1,4 +1,11 @@
 class revisit_dict:
+    def frame_method_from_prob_stat(prob_stat: str) -> str:
+        """
+        :arg: string problem statement
+        :return: method name from problem statement
+        """
+        return prob_stat.lower().replace(' ', '')
+
 
     complex_nested_dict = {
         "company": {
